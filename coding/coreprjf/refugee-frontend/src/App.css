@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body, #root {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  margin: 0;
+  background-color: #b4481d; /* Same orange as dashboard */
+  overflow-x: hidden;
+  font-family: 'Segoe UI', sans-serif;
+} 

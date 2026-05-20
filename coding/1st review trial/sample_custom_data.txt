@@ -1,0 +1,41 @@
+# Sample Custom Traffic Data for Testing
+# This file demonstrates the expected format for custom data uploads
+# Each line should contain a network event or log entry
+
+# Normal traffic patterns
+user authentication successful
+database connection established
+file download completed
+api request processed successfully
+backup operation completed
+system health check passed
+
+# Suspicious activities
+attack vector detected in payload
+unauthorized access attempt from 192.168.1.50
+scan attempt on port 22
+malware signature found in uploaded file
+sql injection attempt blocked
+bruteforce login detected
+ddos traffic spike detected
+phishing email blocked by filter
+
+# Mixed scenarios  
+user login from new location
+multiple failed password attempts
+file encryption in progress
+network latency spike detected
+unusual data transfer pattern
+session timeout occurred
+security policy updated
+certificate renewal required
+
+# Advanced threat patterns
+zero-day exploit attempt detected
+privilege escalation blocked
+data exfiltration attempt
+command injection in web form
+buffer overflow attempt
+cross-site scripting blocked
+ransomware behavior detected
+botnet communication intercepted

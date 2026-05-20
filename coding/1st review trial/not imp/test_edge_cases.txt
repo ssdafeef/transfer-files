@@ -1,0 +1,16 @@
+attack
+attack detected
+scan attempt
+unauthorized access
+normal traffic
+partial attack
+attac
+sca
+unauthorized
+very long message that should be analyzed for anomalies
+short
+numbers123
+special!characters@
+empty line
+
+multiple words with attack pattern

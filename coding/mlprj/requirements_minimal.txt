@@ -1,0 +1,10 @@
+# Minimal requirements to fix the 500 error
+fastapi
+uvicorn[standard]
+python-multipart
+openai-whisper
+torch
+transformers
+spacy
+requests
+numpy

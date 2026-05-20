@@ -1,0 +1,25 @@
+/* RESET EVERYTHING */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* FORCE FULL WIDTH */
+html, body, #root {
+  height: 100%;
+  width: 100%;
+}
+
+/* REMOVE VITE DEFAULT FLEX CENTERING */
+body {
+  margin: 0;
+  background: #b4481d;  /* Your orange */
+  overflow-x: hidden;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+/* MAKE ROOT FILL SCREEN */
+#root {
+  width: 100%;
+}

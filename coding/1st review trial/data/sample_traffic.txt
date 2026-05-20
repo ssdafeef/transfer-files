@@ -1,0 +1,98 @@
+# Normal Traffic Patterns
+normal traffic
+user login successful
+file accessed successfully
+connection established
+system operation normal
+data transfer complete
+authentication passed
+session started
+request processed
+response sent successfully
+operation completed
+service running normally
+status check completed
+monitoring active
+log entry created
+network traffic normal
+system health check
+backup completed
+update installed
+configuration saved
+database query executed
+cache updated
+load balanced
+security scan clean
+firewall rule applied
+encryption enabled
+compression complete
+synchronization done
+replication successful
+maintenance window started
+
+# Attack Patterns & Intrusion Attempts
+attack detected
+scan attempt detected
+unauthorized access attempt
+malware infection detected
+sql injection attempt
+bruteforce attack in progress
+ddos attack ongoing
+phishing attempt detected
+cross-site scripting attempt
+privilege escalation attempt
+data exfiltration detected
+command injection attempt
+zero-day exploit attempt
+ransomware detected
+backdoor access attempt
+credential stuffing attack
+man-in-the-middle attack
+session hijacking attempt
+dns tunneling detected
+port scanning activity
+
+# Edge Cases & Mixed Patterns
+error reported - investigate required
+connection reset by peer
+system reboot initiated
+partial attack pattern detected
+suspicious login attempt
+unusual network activity
+multiple failed authentication attempts
+unexpected system behavior
+high cpu utilization detected
+memory usage spike
+network bandwidth exceeded
+unusual file access patterns
+encryption key rotation required
+security policy violation
+access control list modified
+firewall configuration changed
+system update available
+certificate expiration warning
+log rotation completed
+backup verification failed
+
+# Realistic Network Scenarios
+https request to api.example.com
+ssh connection from 192.168.1.100
+database query from application server
+file upload to cloud storage
+email sent via smtp server
+dns lookup for google.com
+vpn connection established
+load balancer health check
+cdn cache refresh
+api rate limit exceeded
+session timeout occurred
+cookie authentication successful
+jwt token validation passed
+oauth2 authorization completed
+two-factor authentication enabled
+password reset requested
+account lockout triggered
+security alert triggered
+incident report generated
+forensic analysis started
+

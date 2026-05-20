@@ -1,0 +1,28 @@
+# Core dependencies for the fixed API
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+python-multipart==0.0.6
+
+# Audio processing
+openai-whisper==20231117
+pydub==0.25.1
+
+# ML/NLP dependencies
+torch==2.1.0
+transformers==4.35.0
+spacy==3.7.2
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
+
+# Topic modeling
+bertopic==0.16.0
+
+# ML models
+xgboost==2.0.2
+numpy==1.24.3
+
+# Development/testing
+requests==2.31.0
+streamlit==1.28.1
+
+# Audio format support
+ffmpeg-python==0.2.0

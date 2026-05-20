@@ -1,0 +1,13 @@
+openai-whisper
+transformers
+torch
+spacy
+bertopic
+xgboost
+fastapi
+uvicorn
+streamlit
+requests
+numpy
+scikit-learn
+python-multipart
